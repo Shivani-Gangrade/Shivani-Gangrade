@@ -1,5 +1,5 @@
-👋Hi,I'm am Shivani-Gangrade
-😄I'm interested in BackEnd and Data Science
+-👋Hi,I'm am Shivani-Gangrade
+-😄I'm interested in BackEnd and Data Science
  
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
